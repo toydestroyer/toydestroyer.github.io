@@ -1,4 +1,2 @@
-toydestroyer.github.io
-======================
-
+# toydestroyer.com
 Personal Website

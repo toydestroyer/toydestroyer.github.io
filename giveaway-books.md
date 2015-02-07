@@ -1,3 +1,4 @@
+* [Правила Apple (Кармин Галло)](http://www.mann-ivanov-ferber.ru/books/paperbook/the_apple_expirience/)
 * [За кулисами Apple, iли Тайная жизнь Стива Джобса (Сергей Борич)](http://www.ozon.ru/context/detail/id/4193193/)
 * [Я слышу вас насквозь. Эффективная техника переговоров (Марк Гоулстон)](http://www.litres.ru/mark-goulston/ya-slyshu-vas-naskvoz-effektivnaya-tehnika-peregovorov/)
 * [Совет на миллион. Измени мир и заработай состояние (Брендон Берчард)](http://www.litres.ru/brendon-berchard/sovet-na-million-izmeni-mir-i-zarabotay-sostoyanie/)

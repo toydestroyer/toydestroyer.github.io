@@ -1,10 +1,8 @@
 * [Правила Apple (Кармин Галло)](http://www.mann-ivanov-ferber.ru/books/paperbook/the_apple_expirience/)
 * [За кулисами Apple, iли Тайная жизнь Стива Джобса (Сергей Борич)](http://www.ozon.ru/context/detail/id/4193193/)
-* [Я слышу вас насквозь. Эффективная техника переговоров (Марк Гоулстон)](http://www.litres.ru/mark-goulston/ya-slyshu-vas-naskvoz-effektivnaya-tehnika-peregovorov/)
 * [Совет на миллион. Измени мир и заработай состояние (Брендон Берчард)](http://www.litres.ru/brendon-berchard/sovet-na-million-izmeni-mir-i-zarabotay-sostoyanie/)
 * [Это же клиент, идиот! Довольный клиент сделает вас богаче (Майкл Он)](http://www.ozon.ru/context/detail/id/6802925/)
 * [Переговоры. Полный курс (Гэвин Кеннеди)](http://www.litres.ru/gevin-kennedi/peregovory-polnyy-kurs-2/)
-* [Феномен полиглотов (Майкл Эрард)](http://www.litres.ru/maykl-erard/fenomen-poliglotov/)
 * [Стартап без бюджета (Майк Микаловиц)](http://www.litres.ru/mayk-mikalovic/startap-bez-budzheta/)
 * [Неизвестный Стив. История Apple и ее сооснователя из первых рук (Джина Смит)](http://www.litres.ru/dzhina-smit/neizvestnyy-stiv-istoriya-apple-i-ee-soosnovatelya-iz-pervyh-ruk/)
 
@@ -58,3 +56,5 @@
 * [Как стать богатым (Дональд Трамп, Мередит Макивер)](http://www.litres.ru/donald-tramp/meredit-makiver/kak-stat-bogatym/)
 * [Искусство заключать сделки (Дональд Трамп)](http://www.litres.ru/donald-tramp/iskusstvo-zakluchat-sdelki/)
 * [Миллиардеры поневоле. Альтернативная история создания Facebook (Бен Мезрич)](http://www.ozon.ru/context/detail/id/6746214/)
+* [Я слышу вас насквозь. Эффективная техника переговоров (Марк Гоулстон)](http://www.litres.ru/mark-goulston/ya-slyshu-vas-naskvoz-effektivnaya-tehnika-peregovorov/)
+* [Феномен полиглотов (Майкл Эрард)](http://www.litres.ru/maykl-erard/fenomen-poliglotov/)

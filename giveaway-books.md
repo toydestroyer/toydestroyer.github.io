@@ -14,6 +14,7 @@
 * [За кулисами Apple, iли Тайная жизнь Стива Джобса (Сергей Борич)](http://www.ozon.ru/context/detail/id/4193193/)
 * [Неизвестный Стив. История Apple и ее сооснователя из первых рук (Джина Смит)](http://www.litres.ru/dzhina-smit/neizvestnyy-stiv-istoriya-apple-i-ee-soosnovatelya-iz-pervyh-ruk/?lfrom=28196679)
 * [Хаус и философия. Все врут! (Генри Джейкоби, Дженнифер МакМахон, Дэвид Голдблатт)](http://www.ozon.ru/context/detail/id/4951308/)
+
 * * *
 * [~~Дизайн привычных вещей (Дональд Норман)~~](http://www.mann-ivanov-ferber.ru/books/paperbook/design-everyday-things/)
 * [~~Совет на миллион. Измени мир и заработай состояние (Брендон Берчард)~~](http://www.litres.ru/brendon-berchard/sovet-na-million-izmeni-mir-i-zarabotay-sostoyanie/?lfrom=28196679)

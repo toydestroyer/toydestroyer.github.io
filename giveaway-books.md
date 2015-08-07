@@ -12,10 +12,10 @@
 * [Хаус и философия. Все врут! (Генри Джейкоби, Дженнифер МакМахон, Дэвид Голдблатт)](http://www.ozon.ru/context/detail/id/4951308/)
 
 * * *
-* [Сначала нарушьте все правила. Что лучшие в мире менеджеры делают по-другому (Маркус Бакингем, Курт Коффман)](http://www.litres.ru/kurt-koffman/markus-bakingem/snachala-narushte-vse-pravila-chto-luchshie-v-mire-menedzhery-delaut-po-drugomu-4/?lfrom=28196679)
-* [Эффективное коммерческое предложение. Исчерпывающее руководство (Денис Каплунов)](http://www.litres.ru/denis-kaplunov/effektivnoe-kommercheskoe-predlozhenie-ischerpyvauschee-rukovodstvo/?lfrom=28196679)
-* [Жизнь как стартап. Строй карьеру по законам Кремниевой долины (Рид Хоффман, Бен Касноча)](http://www.litres.ru/ben-kasnocha/rid-hoffman/zhizn-kak-startap-stroy-kareru-po-zakonam-kremnievoy-doliny/?lfrom=28196679)
-* [Теряя невинность (Ричард Брэнсон)](http://www.litres.ru/richard-brenson/teryaya-nevinnost/?lfrom=28196679)
+* [~~Сначала нарушьте все правила. Что лучшие в мире менеджеры делают по-другому (Маркус Бакингем, Курт Коффман)~~](http://www.litres.ru/kurt-koffman/markus-bakingem/snachala-narushte-vse-pravila-chto-luchshie-v-mire-menedzhery-delaut-po-drugomu-4/?lfrom=28196679)
+* [~~Эффективное коммерческое предложение. Исчерпывающее руководство (Денис Каплунов)~~](http://www.litres.ru/denis-kaplunov/effektivnoe-kommercheskoe-predlozhenie-ischerpyvauschee-rukovodstvo/?lfrom=28196679)
+* [~~Жизнь как стартап. Строй карьеру по законам Кремниевой долины (Рид Хоффман, Бен Касноча)~~](http://www.litres.ru/ben-kasnocha/rid-hoffman/zhizn-kak-startap-stroy-kareru-po-zakonam-kremnievoy-doliny/?lfrom=28196679)
+* [~~Теряя невинность (Ричард Брэнсон)~~](http://www.litres.ru/richard-brenson/teryaya-nevinnost/?lfrom=28196679)
 * [~~Дизайн привычных вещей (Дональд Норман)~~](http://www.mann-ivanov-ferber.ru/books/paperbook/design-everyday-things/)
 * [~~Совет на миллион. Измени мир и заработай состояние (Брендон Берчард)~~](http://www.litres.ru/brendon-berchard/sovet-na-million-izmeni-mir-i-zarabotay-sostoyanie/?lfrom=28196679)
 * [~~Это же клиент, идиот! Довольный клиент сделает вас богаче (Майкл Он)~~](http://www.ozon.ru/context/detail/id/6802925/)

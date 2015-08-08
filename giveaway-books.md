@@ -1,13 +1,13 @@
-* [Школа продаж. Что делать, если клиент не хочет покупать? (Александр Деревицкий)](http://www.litres.ru/aleksandr-derevickiy/shkola-prodazh-chto-delat-esli-klient-ne-hochet-pokupat/?lfrom=28196679)
-* [Стартап вокруг клиента. Как построить бизнес правильно с самого начала (Брент Купер, Патрик Власковиц)](http://www.litres.ru/brent-kuper/patrik-vlaskovic/startap-vokrug-klienta-kak-postroit-biznes-pravilno-s-samogo-nachala/?lfrom=28196679)
 * [Революционный продукт. Как создать и вывести на рынок (Гай Кавасаки, Мишель Морено)](http://www.litres.ru/gay-kavasaki/mishel-moreno/revolucionnyy-produkt-kak-sozdat-i-vyvesti-na-rynok/?lfrom=28196679)
-* [Правила прибыльных стартапов. Как расти и зарабатывать деньги (Верн Харниш)](http://www.litres.ru/vern-harnish/pravila-pribylnyh-startapov-kak-rasti-i-zarabatyvat-dengi/?lfrom=28196679)
 * [Правила Apple (Кармин Галло)](http://www.mann-ivanov-ferber.ru/books/paperbook/the_apple_expirience/)
 * [За кулисами Apple, iли Тайная жизнь Стива Джобса (Сергей Борич)](http://www.ozon.ru/context/detail/id/4193193/)
-* [Неизвестный Стив. История Apple и ее сооснователя из первых рук (Джина Смит)](http://www.litres.ru/dzhina-smit/neizvestnyy-stiv-istoriya-apple-i-ee-soosnovatelya-iz-pervyh-ruk/?lfrom=28196679)
-* [Хаус и философия. Все врут! (Генри Джейкоби, Дженнифер МакМахон, Дэвид Голдблатт)](http://www.ozon.ru/context/detail/id/4951308/)
 
 * * *
+* [~~Школа продаж. Что делать, если клиент не хочет покупать? (Александр Деревицкий)~~](http://www.litres.ru/aleksandr-derevickiy/shkola-prodazh-chto-delat-esli-klient-ne-hochet-pokupat/?lfrom=28196679)
+* [~~Стартап вокруг клиента. Как построить бизнес правильно с самого начала (Брент Купер, Патрик Власковиц)~~](http://www.litres.ru/brent-kuper/patrik-vlaskovic/startap-vokrug-klienta-kak-postroit-biznes-pravilno-s-samogo-nachala/?lfrom=28196679)
+* [~~Правила прибыльных стартапов. Как расти и зарабатывать деньги (Верн Харниш)~~](http://www.litres.ru/vern-harnish/pravila-pribylnyh-startapov-kak-rasti-i-zarabatyvat-dengi/?lfrom=28196679)
+* [~~Неизвестный Стив. История Apple и ее сооснователя из первых рук (Джина Смит)~~](http://www.litres.ru/dzhina-smit/neizvestnyy-stiv-istoriya-apple-i-ee-soosnovatelya-iz-pervyh-ruk/?lfrom=28196679)
+* [~~Хаус и философия. Все врут! (Генри Джейкоби, Дженнифер МакМахон, Дэвид Голдблатт)~~](http://www.ozon.ru/context/detail/id/4951308/)
 * [~~Как работать по четыре часа в неделю (Тимоти Феррис)~~](http://www.litres.ru/timoti-ferris/kak-rabotat-po-chetyre-chasa-v-nedelu-2/?lfrom=28196679)
 * [~~ИКЕА: собери свою мечту. Как совместить ответственность и прибыль в одной компании (Андерс Дальвиг)~~](http://www.litres.ru/anders-dalvig/ikea-soberi-svou-mechtu-kak-sovmestit-otvetstvennost-i-pribyl-v-odnoy-kompanii/?lfrom=28196679)
 * [~~Камасутра для оратора. Десять глав о том, как получать и доставлять максимальное удовольствие, выступая публично (Радислав Гандапас)~~](http://www.litres.ru/radislav-gandapas/kamasutra-dlya-oratora-desyat-glav-o-tom-kak-poluchat-i-dostavlyat-maksimalnoe-udovolstvie-vystupaya-publichno/?lfrom=28196679)

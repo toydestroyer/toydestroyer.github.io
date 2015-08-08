@@ -1,4 +1,3 @@
-* [ИКЕА: собери свою мечту. Как совместить ответственность и прибыль в одной компании (Андерс Дальвиг)](http://www.litres.ru/anders-dalvig/ikea-soberi-svou-mechtu-kak-sovmestit-otvetstvennost-i-pribyl-v-odnoy-kompanii/?lfrom=28196679)
 * [Школа продаж. Что делать, если клиент не хочет покупать? (Александр Деревицкий)](http://www.litres.ru/aleksandr-derevickiy/shkola-prodazh-chto-delat-esli-klient-ne-hochet-pokupat/?lfrom=28196679)
 * [Стартап вокруг клиента. Как построить бизнес правильно с самого начала (Брент Купер, Патрик Власковиц)](http://www.litres.ru/brent-kuper/patrik-vlaskovic/startap-vokrug-klienta-kak-postroit-biznes-pravilno-s-samogo-nachala/?lfrom=28196679)
 * [Революционный продукт. Как создать и вывести на рынок (Гай Кавасаки, Мишель Морено)](http://www.litres.ru/gay-kavasaki/mishel-moreno/revolucionnyy-produkt-kak-sozdat-i-vyvesti-na-rynok/?lfrom=28196679)
@@ -9,6 +8,8 @@
 * [Хаус и философия. Все врут! (Генри Джейкоби, Дженнифер МакМахон, Дэвид Голдблатт)](http://www.ozon.ru/context/detail/id/4951308/)
 
 * * *
+* [~~Как работать по четыре часа в неделю (Тимоти Феррис)~~](http://www.litres.ru/timoti-ferris/kak-rabotat-po-chetyre-chasa-v-nedelu-2/?lfrom=28196679)
+* [~~ИКЕА: собери свою мечту. Как совместить ответственность и прибыль в одной компании (Андерс Дальвиг)~~](http://www.litres.ru/anders-dalvig/ikea-soberi-svou-mechtu-kak-sovmestit-otvetstvennost-i-pribyl-v-odnoy-kompanii/?lfrom=28196679)
 * [~~Камасутра для оратора. Десять глав о том, как получать и доставлять максимальное удовольствие, выступая публично (Радислав Гандапас)~~](http://www.litres.ru/radislav-gandapas/kamasutra-dlya-oratora-desyat-glav-o-tom-kak-poluchat-i-dostavlyat-maksimalnoe-udovolstvie-vystupaya-publichno/?lfrom=28196679)
 * [~~Искренняя лояльность. Ключ к завоеванию клиентов на всю жизнь (Фред Райхельд, Роб Марки)~~](http://www.litres.ru/rob-marki/fred-rayheld/iskrennyaya-loyalnost-kluch-k-zavoevaniu-klientov-na-vsu-zhizn/?lfrom=28196679)
 * [~~Бизнес в стиле Virgin. Чему вас не научат в бизнес-школе (Ричард Брэнсон)~~](http://www.litres.ru/richard-brenson/biznes-v-stile-virgin-chemu-vas-ne-nauchat-v-biznes-shkole/?lfrom=28196679)

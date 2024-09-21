@@ -1,0 +1,12 @@
+colorScheme: slate
+enableSearch: true
+homepage:
+  layout: profile
+  showRecent: true
+footer:
+  showAppearanceSwitcher: true
+article:
+  showBreadcrumbs: true
+  showTableOfContents: true
+header:
+  showTitle: true

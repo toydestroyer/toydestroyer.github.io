@@ -1,0 +1,20 @@
+title: toydestroyer
+
+params:
+  description: blablabla
+  author:
+    name: Sergey Toy
+    image: img/sergeytoy.jpg
+    headline: |
+      :wave: I'm a Staff Software Engineer based in Singapore :singapore:.
+
+      I write about Ruby (with and without Rails), Go, PostgreSQL, and Serverless.
+
+    bio: |
+      I'm a Staff Software Engineer based in Singapore :singapore:.
+
+      I write about Ruby (with and without Rails), Go, PostgreSQL, and Serverless.
+    links:
+      - github: https://github.com/toydestroyer
+      - linkedin: https://www.linkedin.com/in/toydestroyer/
+      - email: mailto:hello@sergeytoy.com
